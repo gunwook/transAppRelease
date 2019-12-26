@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">영검기</string>
+    <string name="current">최근 단어</string>
+    <string name="setting">설정</string>
+    <string name="search_setting">검색 순위</string>
+    <string name="register">회원 가입</string>
+    <string name="login">로그인</string>
+    <string name="fail">저장이 실패하였습니다.</string>
+    <string name="logout">로그아웃</string>
+    <string name="text_copy">글자 복사</string>
+    <string name="api_key">AIzaSyBBlyehkuDABUdQREc3ebendE_vzy7iJRc</string>
+</resources>
